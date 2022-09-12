@@ -1,6 +1,6 @@
-# Nome do meu projeto
+# Barbearia Alura
 
-Rápida descrição do objetivo de fazer esse projeto
+Minha introdução ao mundo HTML
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
