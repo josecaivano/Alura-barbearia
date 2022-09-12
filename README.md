@@ -4,14 +4,14 @@ Rápida descrição do objetivo de fazer esse projeto
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Barbearia Alura**
+| :label: Tecnologias | html
+| :rocket: URL         | http://zecaivano.com/Alura/Barbearia/index.html
+| :fire: Cursos     | HTML & CSS - parte 1 até parte 4 - Instrutor Pedro Marins
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](http://zecaivano.com/Alura/Barbearia/banner.jpg#vitrinedev)
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Meus primeiros passos na linguagem
